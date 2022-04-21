@@ -2,9 +2,9 @@
 Это репозиторий с кодом C++ в нескольких файлах и описанием в README.md
 
 # Структура проекта
-[link][main.cpp]
-[link][fibonacci.h]
-[link][fibonacci.cpp]
-[link][README.md]
+[main.cpp](main.cpp)
+[fibonacci.h](fibonacci.h)
+[fibonacci.cpp](fibonacci.cpp)
+[README.md](README.md)
 
-# Выполнил [Даниил Волошиновский][https://github.com/VoloshinovskiiDaniil]
+Выполнил [Даниил Волошиновский](https://github.com/VoloshinovskiiDaniil)
