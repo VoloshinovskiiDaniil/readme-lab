@@ -5,6 +5,6 @@
 [main.cpp](main.cpp)\
 [fibonacci.h](fibonacci.h)\
 [fibonacci.cpp](fibonacci.cpp)\
-[README.md](README.md)\
+[README.md](README.md)
 
 Выполнил [Даниил Волошиновский](https://github.com/VoloshinovskiiDaniil)
