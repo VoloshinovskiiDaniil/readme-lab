@@ -1,10 +1,10 @@
 # readme-lab
 Это репозиторий с кодом C++ в нескольких файлах и описанием в README.md
 
-#### Структура проекта
+# Структура проекта
+[link][main.cpp]
+[link][fibonacci.h]
+[link][fibonacci.cpp]
+[link][README.md]
 
-    /
-	main.cpp
-	fibonacci.h
-	fibonacci.cpp
-	README.md     
+# Выполнил [Даниил Волошиновский][https://github.com/VoloshinovskiiDaniil]
