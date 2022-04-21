@@ -5,6 +5,6 @@
 
     /
     	main.cpp
-      fibonacci.h
-      fibonacci.cpp
-		  README.md     
+	fibonacci.h
+	fibonacci.cpp
+	README.md     
