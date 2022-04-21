@@ -4,7 +4,7 @@
 #### Структура проекта
 
     /
-    	main.cpp
+	main.cpp
 	fibonacci.h
 	fibonacci.cpp
 	README.md     
